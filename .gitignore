@@ -1,0 +1,8 @@
+*.txt
+*.env
+*.exe
+*.log
+demon_log
+clickhouse_log
+Parser
+parser_log
